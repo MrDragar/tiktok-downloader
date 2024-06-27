@@ -15,7 +15,7 @@ requests = "^2.31.0"
 tqdm = "^4.66.1"
 rich = "^13.7.0"
 httpx = "^0.25.2"
-aiohttp = "^3.8.4"
+aiohttp = "^3.9.1"
 moviepy = "^1.0.3"
 js2py = "^0.74"
 
